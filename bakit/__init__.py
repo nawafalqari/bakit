@@ -10,4 +10,4 @@ from .TasksQueue import TasksQueue
 from .Copy import copy
 
 __version__ = "1.0.1"
-__all__ = ["Event", "Events", "Queue", "TasksQueue"]
+__all__ = ["Event", "Events", "Queue", "TasksQueue", "copy"]
