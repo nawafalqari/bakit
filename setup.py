@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as readme_file:
 setup(
    name='bakit',
    packages=find_packages(),
-   version="1.0.0",
+   version="1.0.1",
    description='BAKit Provides Python Built-in better alternatives',
    author='Nawaf Alqari',
    author_email='nawafalqari13@gmail.com',
